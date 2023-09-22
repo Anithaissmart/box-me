@@ -1,0 +1,9 @@
+
+h1{
+    color: green;
+    background: pink;
+    border: 20px solid violet;
+    margin: 40px;
+    outline: 30px solid blue;
+    padding: 40px;
+}
